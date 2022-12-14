@@ -181,6 +181,12 @@ Example:
 - Twitter: [@NahnahAhjuwah](https://twitter.com/NahnahAhjuwah)
 - LinkedIn: [Felicia Awuah](https://www.linkedin.com/in/felicia-awuah-0674a7152/)
 
+👤 **Joel Kugonza**
+
+- GitHub: [@JoelKugonza](https://github.com/Joel-100)
+- Twitter: [@JoelKugonza](https://twitter.com/JoelKugonza)
+- LinkedIn: [JoelKugonza](https://www.linkedin.com/in/joel-kugonza/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
