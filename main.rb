@@ -43,17 +43,17 @@ def morse_character(character)
   MORSE_TRANSLATOR[character].upcase
 end
 
-# def morse_words(character)
-#   morse_words = ''
-#   character.split.each { |word| morse_words += morse_character(word) }
-#   morse_words
-# end
-
-def morse_message(character)
-  morse_message = ''
-  character.split('   ').each { |word| morse_message += "#{morse_words(word)} " }
-  morse_message
+def morse_words(character)
+  morse_words = ''
+  character.split.each { |word| morse_words += morse_character(word) }
+  morse_words
 end
+
+# def morse_message(character)
+#   morse_message = ''
+#   character.split('   ').each { |word| morse_message += "#{morse_words(word)} " }
+#   morse_message
+# end
 
 # test cases
 puts morse_character('.-')
